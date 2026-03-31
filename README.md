@@ -14,6 +14,7 @@ Maintained by [UngrindFi](https://ungrindfi.com) — Free FIRE calculators that 
 - [Safe Withdrawal Rate](#safe-withdrawal-rate)
 - [Early Withdrawal & 72t SEPP](#early-withdrawal--72t-sepp)
 - [Monte Carlo Simulators](#monte-carlo-simulators)
+- [Investment & Wealth Projections](#investment--wealth-projections)
 - [Spreadsheets & Templates](#spreadsheets--templates)
 - [Communities](#communities)
 - [Educational Resources](#educational-resources)
@@ -129,6 +130,14 @@ Test your plan against thousands of possible market scenarios.
 - [Portfolio Visualizer Monte Carlo](https://www.portfoliovisualizer.com/monte-carlo-simulation) - Professional-grade with asset class correlation modeling.
 - [Engaging Data Rich/Broke/Dead](https://engaging-data.com/fire-calculator/) - Unique visualization showing probability outcomes by age.
 - [FIRECalc](https://firecalc.com/) - Tests against every historical 30-year period since 1871.
+
+---
+
+## Investment & Wealth Projections
+
+Tools for modeling investment growth and long-term wealth accumulation on the path to FIRE.
+
+- [CalcuWealth](https://calcuwealth.com/) - Free investment calculators for compound interest, portfolio growth projections, SIP returns, and wealth-building timelines. Designed for US investors planning long-term financial independence.
 
 ---
 
