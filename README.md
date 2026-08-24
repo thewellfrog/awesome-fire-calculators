@@ -28,6 +28,7 @@ Maintained by [UngrindFi](https://ungrindfi.com) — Free FIRE calculators that 
 - [Engaging Data FIRE Calculator](https://engaging-data.com/fire-calculator/) - Powerful simulator with historical cycle analysis and "Rich, Broke, or Dead" visualizations.
 - [FIRECalc](https://firecalc.com/) - Classic Monte Carlo simulator using historical market data back to 1871.
 - [cFIREsim](https://cfiresim.com/) - Open-source simulator with detailed spending models and Social Security integration.
+- [IndepAI](https://indepai.app/tools) - FIRE calculator suite (FI score, Coast, Barista, Lean) that layers cost-of-living data from 11,800+ cities, so you can see how relocating shortens your time to financial independence. Free tier, no signup for the calculators.
 
 ### Simple Calculators
 
