@@ -27,6 +27,7 @@ Maintained by [UngrindFi](https://ungrindfi.com) — Free FIRE calculators that 
 - [UngrindFi FIRE Calculator](https://ungrindfi.com) - Free calculators for Coast FIRE, Barista FIRE, Lean FIRE, and more. Handles pensions, variable income phases, and one-time expenses.
 - [Engaging Data FIRE Calculator](https://engaging-data.com/fire-calculator/) - Powerful simulator with historical cycle analysis and "Rich, Broke, or Dead" visualizations.
 - [FIRECalc](https://firecalc.com/) - Classic Monte Carlo simulator using historical market data back to 1871.
+- [Calculora](https://calculora.net) - 300+ free online calculators including retirement, investment, and FIRE planning tools. 26 languages, dark mode.
 - [cFIREsim](https://cfiresim.com/) - Open-source simulator with detailed spending models and Social Security integration.
 
 ### Simple Calculators
