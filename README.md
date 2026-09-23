@@ -33,6 +33,7 @@ Maintained by [UngrindFi](https://ungrindfi.com) — Free FIRE calculators that 
 
 - [Networthify](https://networthify.com/calculator/earlyretirement) - Clean, simple time-to-FIRE calculator.
 - [Playing With FIRE Calculator](https://playingwithfire.co/retirementcalculator/) - Based on the documentary; beginner-friendly.
+- [TidyCalcs](https://tidycalcs.com) — Free, no-signup retirement and net worth planning calculator, plus mortgage, loan, and debt payoff tools.
 
 ---
 
