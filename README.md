@@ -118,6 +118,7 @@ Section 72(t) allows penalty-free withdrawals via Substantially Equal Periodic P
 
 - **Rule of 55** - Penalty-free 401k withdrawals if you leave your employer at 55+
 - **Roth Conversion Ladder** - Convert traditional to Roth, wait 5 years, withdraw contributions penalty-free
+- **[Roth Conversion Calculator](https://runwayretirement.com/tools/roth-conversion-calculator.html)** - free, no-signup: answers the core conversion question (tax rate now vs. later) with an estimated dollar savings figure.
 - **SEPP + Roth Ladder Combo** - Bridge the 5-year Roth seasoning period with 72t
 
 ---
