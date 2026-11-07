@@ -81,6 +81,7 @@ How much can you safely withdraw each year without running out of money?
 
 - [FICalc](https://ficalc.app/) - Modern interface with multiple withdrawal strategies (constant dollar, percent of portfolio, VPW).
 - [Early Retirement Now SWR Series](https://earlyretirementnow.com/safe-withdrawal-rate-series/) - The definitive 50+ part research series on safe withdrawal rates.
+- [4% Rule Calculator](https://www.4percentcalc.com) - Backtests a fixed 4% withdrawal against every retirement start year since 1927 using Shiller data. One bar per start year, click any year for the year-by-year path.
 
 ### Quick Reference
 
