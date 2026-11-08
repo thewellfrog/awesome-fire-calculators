@@ -31,6 +31,7 @@ Maintained by [UngrindFi](https://ungrindfi.com) — Free FIRE calculators that 
 
 ### Simple Calculators
 
+- [Calculation Hub Retirement Calculator](https://calculation-hub.com/financial/retirement) - Free savings projections using contributions, assumed returns, inflation, and retirement age; not a withdrawal-safety simulation.
 - [Networthify](https://networthify.com/calculator/earlyretirement) - Clean, simple time-to-FIRE calculator.
 - [Playing With FIRE Calculator](https://playingwithfire.co/retirementcalculator/) - Based on the documentary; beginner-friendly.
 
