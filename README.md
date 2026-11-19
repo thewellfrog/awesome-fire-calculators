@@ -43,6 +43,7 @@ Coast FIRE = the point where you've saved enough that compound growth alone will
 - [UngrindFi Coast FIRE Calculator](https://ungrindfi.com/tools/coast-fire-calculator) - Visual timeline showing contribution vs. coasting phases. Supports pension income.
 - [WalletBurst Coast FIRE](https://walletburst.com/tools/coast-fire-calc/) - Clean interface, instant chart updates.
 - [CoastFIRECalc.com](https://coastfirecalc.com/) - Single-purpose exact-match domain tool.
+- [WealthMathPro Coast FIRE Calculator](https://wealthmathpro.com/calculators/coast-fire) - Estimates investments needed today to reach a spending-based retirement target without further contributions, with explicit return, inflation and withdrawal assumptions. Free, no account required, with scenario comparisons and PDF/CSV/print options.
 - [Marriage Kids and Money](https://marriagekidsandmoney.com/calculators/coast-fire/) - Wizard-style inputs with video explainers.
 
 ### Coast FIRE by Age Benchmarks
